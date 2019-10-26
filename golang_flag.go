@@ -1,9 +1,9 @@
 package main
 
-import {
+import (
 	flag
 	fmt
-}
+)
 
 func main() {
 
